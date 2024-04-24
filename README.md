@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="200" src="https://64.media.tumblr.com/b0537e0fdde1f540173359c390b4b9a8/9bf71012ca548150-34/s1280x1920/db158fbee5da368c51b2df3eb01157f45369b559.pnj" alt="divider idk">
+    <img width="200" src="https://64.media.tumblr.com/93ae941a35ddd626d6af4374120b20a5/bac04115983361cf-a6/s1280x1920/a7bd4e0242a62d938e19e2f82e891c814a0bf663.pnj" alt="divider idk">
 </p>
 <p align="center">
     <img width="200" src="https://i.imgur.com/DIiHSNV.png" alt="art by I forgot">
@@ -9,6 +9,6 @@ mom, I'm tired
 can I sleep in your house tonight?
 </p>
 <p align="center">
-    <img width="200" src="https://64.media.tumblr.com/b0537e0fdde1f540173359c390b4b9a8/9bf71012ca548150-34/s1280x1920/db158fbee5da368c51b2df3eb01157f45369b559.pnj" alt="divdier">
+    <img width="200" src="https://64.media.tumblr.com/93ae941a35ddd626d6af4374120b20a5/bac04115983361cf-a6/s1280x1920/a7bd4e0242a62d938e19e2f82e891c814a0bf663.pnj" alt="divdier">
 </p>
 
