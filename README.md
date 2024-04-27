@@ -1,14 +1,2 @@
 <p align="center">
-    <img width="200" src="https://64.media.tumblr.com/93ae941a35ddd626d6af4374120b20a5/bac04115983361cf-a6/s1280x1920/a7bd4e0242a62d938e19e2f82e891c814a0bf663.pnj" alt="divider idk">
-</p>
-<p align="center">
-    <img width="200" src="https://i.imgur.com/DIiHSNV.png" alt="art by I forgot">
-</p>
-<p align="center">
-just a simple computer program
-hope im not a pain (>_<). 
-</p>
-<p align="center">
-    <img width="200" src="https://64.media.tumblr.com/93ae941a35ddd626d6af4374120b20a5/bac04115983361cf-a6/s1280x1920/a7bd4e0242a62d938e19e2f82e891c814a0bf663.pnj" alt="divdier">
-</p>
-
+    <img width="200" src="https://cdn.discordapp.com/attachments/1072532002093408259/1233777044706426964/axez_gay_LOL_-eclair.jpeg?ex=662e53e9&is=662d0269&hm=f2697fe5ee70c4333491672c22a27470a469642eb683f08889b7872b8f252f2c&" alt="axez is GAU">
